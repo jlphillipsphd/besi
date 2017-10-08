@@ -1,0 +1,898 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/TeX Live for SUSE Linux) (preloaded format=pdflatex 2017.4.16)  8 OCT 2017 16:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Morton-Phillips_Computational_Advances-SI.tex
+(./Morton-Phillips_Computational_Advances-SI.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 503.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) (/usr/share/texmf/tex/generic/ulem/ulem.sty
+\UL@box=\box28
+\UL@hyphenbox=\box29
+\UL@skip=\skip44
+\UL@hook=\toks15
+\UL@height=\dimen126
+\UL@pe=\count94
+\UL@pixel=\dimen127
+\ULC@box=\box30
+Package: ulem 2012/05/18
+\ULdepth=\dimen128
+)
+(/usr/share/texmf/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/share/texmf/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count95
+))
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+)
+(/usr/share/texmf/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen131
+))
+(/usr/share/texmf/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen132
+)
+(/usr/share/texmf/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen133
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
+\dotsspace@=\muskip10
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks18
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks19
+\eqnshift@=\dimen134
+\alignsep@=\dimen135
+\tagshift@=\dimen136
+\tagwidth@=\dimen137
+\totwidth@=\dimen138
+\lineht@=\dimen139
+\@envbody=\toks20
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texmf/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip48
+\enit@outerparindent=\dimen140
+\enit@toks=\toks22
+\enit@inbox=\box33
+\enitdp@description=\count108
+)
+(/usr/share/texmf/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen141
+\lightrulewidth=\dimen142
+\cmidrulewidth=\dimen143
+\belowrulesep=\dimen144
+\belowbottomsep=\dimen145
+\aboverulesep=\dimen146
+\abovetopsep=\dimen147
+\cmidrulesep=\dimen148
+\cmidrulekern=\dimen149
+\defaultaddspace=\dimen150
+\@cmidla=\count109
+\@cmidlb=\count110
+\@aboverulesep=\dimen151
+\@belowrulesep=\dimen152
+\@thisruleclass=\count111
+\@lastruleclass=\count112
+\@thisrulewidth=\dimen153
+)
+(/usr/share/texmf/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen154
+\extrarowheight=\dimen155
+\NC@list=\toks23
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/share/texmf/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texmf/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen156
+\captionmargin@=\dimen157
+\captionwidth=\dimen158
+\caption@tempdima=\dimen159
+\caption@indent=\dimen160
+\caption@parindent=\dimen161
+\caption@hangindent=\dimen162
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+\c@KVtest=\count113
+\sf@farskip=\skip51
+\sf@captopadj=\dimen163
+\sf@capskip=\skip52
+\sf@nearskip=\skip53
+\c@subfigure=\count114
+\c@subfigure@save=\count115
+\c@lofdepth=\count116
+\c@subtable=\count117
+\c@subtable@save=\count118
+\c@lotdepth=\count119
+\sf@top=\skip54
+\sf@bottom=\skip55
+)
+(/usr/share/texmf/tex/latex/dblfloatfix/dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+(/usr/share/texmf/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+)
+\@dblbotnum=\count120
+\c@dblbotnumber=\count121
+) (./Morton-Phillips_Computational_Advances-SI.aux)
+\openout1 = `Morton-Phillips_Computational_Advances-SI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+-- Lines per column: 56 (exact).
+(/usr/share/texmf/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen164
+\scratchbox=\box34
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen165
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texmf/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texmf/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texmf/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texmf/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-1
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:26
+(epstopdf)                    size: 12370 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-1
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:50
+(epstopdf)                    size: 15785 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-1-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+1.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-1-eps-converted-to.pdf, id=1, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-1-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-1-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-1-eps-convert
+ed-to.pdf used on input line 95.
+(pdftex.def)             Requested size: 201.60077pt x 201.59152pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-2
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12330 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-2
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:50
+(epstopdf)                    size: 15829 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-2-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+2.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-2-eps-converted-to.pdf, id=2, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-2-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-2-eps-convert
+ed-to.pdf used on input line 96.
+(pdftex.def)             Requested size: 201.60077pt x 201.59152pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-3
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12353 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-3
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:51
+(epstopdf)                    size: 15885 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-3-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+3.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-3-eps-converted-to.pdf, id=3, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-3-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-3-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-3-eps-convert
+ed-to.pdf used on input line 100.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-4
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12331 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-4
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:51
+(epstopdf)                    size: 15804 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-4-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+4.eps>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-4-eps-converted-to.pdf, id=4, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-4-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-4-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-4-eps-convert
+ed-to.pdf used on input line 101.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-5
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12288 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-5
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:51
+(epstopdf)                    size: 15824 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-5-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+5.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-5-eps-converted-to.pdf, id=5, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-5-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-5-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-5-eps-convert
+ed-to.pdf used on input line 105.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-6
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12263 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-6
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:52
+(epstopdf)                    size: 15858 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-6-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+6.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-6-eps-converted-to.pdf, id=6, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-6-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-6-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-6-eps-convert
+ed-to.pdf used on input line 106.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-7
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:27
+(epstopdf)                    size: 12255 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-7
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:52
+(epstopdf)                    size: 15773 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-7-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+7.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-7-eps-converted-to.pdf, id=7, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-7-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-7-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-7-eps-convert
+ed-to.pdf used on input line 110.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-8
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:28
+(epstopdf)                    size: 12249 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-8
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:52
+(epstopdf)                    size: 15864 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-8-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+8.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-8-eps-converted-to.pdf, id=8, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-8-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-8-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-8-eps-convert
+ed-to.pdf used on input line 111.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-9
+.eps>
+(epstopdf)                    date: 2017-10-08 14:26:28
+(epstopdf)                    size: 12249 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-9
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:52
+(epstopdf)                    size: 15856 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-9-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed-
+9.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-9-eps-converted-to.pdf, id=9, 1734.48
+pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-9-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-9-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-9-eps-convert
+ed-to.pdf used on input line 115.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/ordered_by_Donor-Score_PC_Fixed-1
+0.eps>
+(epstopdf)                    date: 2017-10-08 14:26:28
+(epstopdf)                    size: 12250 bytes
+(epstopdf)             Output file: <./images/ordered_by_Donor-Score_PC_Fixed-1
+0-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:31:53
+(epstopdf)                    size: 15888 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/ordered_by_Donor-
+Score_PC_Fixed-10-eps-converted-to.pdf ./images/ordered_by_Donor-Score_PC_Fixed
+-10.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/ordered_by_Donor-Score_PC_Fixed-10-eps-converted-to.pdf, id=10, 1734.
+48pt x 1734.48pt>
+File: ./images/ordered_by_Donor-Score_PC_Fixed-10-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use ./images/ordered_by_Donor-Score_PC_Fixed-10-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/ordered_by_Donor-Score_PC_Fixed-10-eps-conver
+ted-to.pdf used on input line 116.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+ [1{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./images/ordered_by_Donor-Score_PC_Fixed-1-eps-converted-to.pdf> <./images/or
+dered_by_Donor-Score_PC_Fixed-2-eps-converted-to.pdf>] [2 <./images/ordered_by_
+Donor-Score_PC_Fixed-3-eps-converted-to.pdf> <./images/ordered_by_Donor-Score_P
+C_Fixed-4-eps-converted-to.pdf> <./images/ordered_by_Donor-Score_PC_Fixed-5-eps
+-converted-to.pdf> <./images/ordered_by_Donor-Score_PC_Fixed-6-eps-converted-to
+.pdf> <./images/ordered_by_Donor-Score_PC_Fixed-7-eps-converted-to.pdf> <./imag
+es/ordered_by_Donor-Score_PC_Fixed-8-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 124.
+
+Package epstopdf Info: Source file: <./images/R56_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 14825 bytes
+(epstopdf)             Output file: <./images/R56_heat_map_Fixed-2-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2017-10-08 14:59:45
+(epstopdf)                    size: 21244 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/R56_heat_map_Fixe
+d-2-eps-converted-to.pdf ./images/R56_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 127.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/R56_heat_map_Fixed-2-eps-converted-to.pdf, id=120, 1734.48pt x 1734.4
+8pt>
+File: ./images/R56_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./images/R56_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/R56_heat_map_Fixed-2-eps-converted-to.pdf use
+d on input line 127.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z153_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 15545 bytes
+(epstopdf)             Output file: <./images/Z153_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:38:19
+(epstopdf)                    size: 18883 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z153_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z153_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 155.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z153_heat_map_Fixed-2-eps-converted-to.pdf, id=121, 1734.48pt x 1734.
+48pt>
+File: ./images/Z153_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z153_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z153_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 155.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z185_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 15971 bytes
+(epstopdf)             Output file: <./images/Z185_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:01
+(epstopdf)                    size: 19734 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z185_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z185_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z185_heat_map_Fixed-2-eps-converted-to.pdf, id=122, 1734.48pt x 1734.
+48pt>
+File: ./images/Z185_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z185_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z185_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 187.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 219.
+
+Package epstopdf Info: Source file: <./images/Z201_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 24416 bytes
+(epstopdf)             Output file: <./images/Z201_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:02
+(epstopdf)                    size: 24264 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z201_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z201_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 223.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z201_heat_map_Fixed-2-eps-converted-to.pdf, id=123, 1734.48pt x 1734.
+48pt>
+File: ./images/Z201_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z201_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z201_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 223.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z205_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 13367 bytes
+(epstopdf)             Output file: <./images/Z205_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:02
+(epstopdf)                    size: 18569 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z205_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z205_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 292.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z205_heat_map_Fixed-2-eps-converted-to.pdf, id=124, 1734.48pt x 1734.
+48pt>
+File: ./images/Z205_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z205_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z205_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 292.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+
+
+LaTeX Warning: Float too large for page by 66.58185pt on input line 315.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 317.
+
+Package epstopdf Info: Source file: <./images/Z216_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 16210 bytes
+(epstopdf)             Output file: <./images/Z216_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:02
+(epstopdf)                    size: 21615 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z216_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z216_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 320.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z216_heat_map_Fixed-2-eps-converted-to.pdf, id=125, 1734.48pt x 1734.
+48pt>
+File: ./images/Z216_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z216_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z216_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 320.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z221_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 19154 bytes
+(epstopdf)             Output file: <./images/Z221_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:03
+(epstopdf)                    size: 22216 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z221_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z221_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 358.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z221_heat_map_Fixed-2-eps-converted-to.pdf, id=126, 1734.48pt x 1734.
+48pt>
+File: ./images/Z221_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z221_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z221_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 358.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 407.
+
+Package epstopdf Info: Source file: <./images/Z238_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 15876 bytes
+(epstopdf)             Output file: <./images/Z238_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:03
+(epstopdf)                    size: 21226 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z238_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z238_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 411.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z238_heat_map_Fixed-2-eps-converted-to.pdf, id=127, 1734.48pt x 1734.
+48pt>
+File: ./images/Z238_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z238_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z238_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 411.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z242_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 15699 bytes
+(epstopdf)             Output file: <./images/Z242_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:03
+(epstopdf)                    size: 20912 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z242_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z242_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 446.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z242_heat_map_Fixed-2-eps-converted-to.pdf, id=128, 1734.48pt x 1734.
+48pt>
+File: ./images/Z242_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z242_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z242_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 446.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+Package epstopdf Info: Source file: <./images/Z292_heat_map_Fixed-2.eps>
+(epstopdf)                    date: 2017-10-07 18:26:53
+(epstopdf)                    size: 17306 bytes
+(epstopdf)             Output file: <./images/Z292_heat_map_Fixed-2-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2017-10-08 15:54:03
+(epstopdf)                    size: 21251 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/Z292_heat_map_Fix
+ed-2-eps-converted-to.pdf ./images/Z292_heat_map_Fixed-2.eps>
+(epstopdf)             \includegraphics on input line 478.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/Z292_heat_map_Fixed-2-eps-converted-to.pdf, id=129, 1734.48pt x 1734.
+48pt>
+File: ./images/Z292_heat_map_Fixed-2-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./images/Z292_heat_map_Fixed-2-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/Z292_heat_map_Fixed-2-eps-converted-to.pdf us
+ed on input line 478.
+(pdftex.def)             Requested size: 206.39685pt x 206.38187pt.
+
+Overfull \hbox (47.40332pt too wide) in paragraph at lines 408--513
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 4.78183pt on input line 513.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3
+
+ <./images/ordered_by_Donor-Score_PC_Fixed-9-eps-converted-to.pdf> <./images/or
+dered_by_Donor-Score_PC_Fixed-10-eps-converted-to.pdf>] [4 <./images/R56_heat_m
+ap_Fixed-2-eps-converted-to.pdf> <./images/Z153_heat_map_Fixed-2-eps-converted-
+to.pdf> <./images/Z185_heat_map_Fixed-2-eps-converted-to.pdf>] [5 <./images/Z20
+1_heat_map_Fixed-2-eps-converted-to.pdf> <./images/Z205_heat_map_Fixed-2-eps-co
+nverted-to.pdf>] [6 <./images/Z216_heat_map_Fixed-2-eps-converted-to.pdf> <./im
+ages/Z221_heat_map_Fixed-2-eps-converted-to.pdf>] [7 <./images/Z238_heat_map_Fi
+xed-2-eps-converted-to.pdf> <./images/Z242_heat_map_Fixed-2-eps-converted-to.pd
+f> <./images/Z292_heat_map_Fixed-2-eps-converted-to.pdf>]
+(./Morton-Phillips_Computational_Advances-SI.aux) ) 
+Here is how much of TeX's memory you used:
+ 4310 strings out of 493091
+ 71038 string characters out of 6142992
+ 179297 words of memory out of 5000000
+ 7712 multiletter control sequences out of 15000+600000
+ 34686 words of font info for 72 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 38i,14n,38p,1569b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/
+dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/share/texmf/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsf
+onts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/urw/times/utmb8a.pfb></usr/share
+/texmf/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Morton-Phillips_Computational_Advances-SI.pdf (7 pages, 36337
+4 bytes).
+PDF statistics:
+ 342 PDF objects out of 1000 (max. 8388607)
+ 234 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
